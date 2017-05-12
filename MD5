@@ -1,0 +1,10 @@
+1dda6a32b7916c70cda9d0584f0543eb *DESCRIPTION
+7329c87830d80c31f9cd088907515cf9 *NAMESPACE
+9aa4cacb46f0a713af2e2cf0ce8bfc6d *NEWS.md
+387dcc86f28ac82c23f80a273e717244 *R/sinib.R
+9c879c6240cbdc1bf40f4c6e37b4d38c *R/utils.R
+b5ffe7cea3e64e2d5e079d7b773b5dff *README.md
+28dafcd08a0f15a62c7c9ac36341f43a *build/partial.rdb
+82c1a568b7d3dd6222d2a4c3008e8a81 *man/psinib.Rd
+78b6c4675819ab9fe40556546d50dacf *man/sinib-package.Rd
+eaa282d4e6a4ea8db2ba39ef24279c18 *tests/test.R
